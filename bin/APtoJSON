@@ -1,0 +1,36 @@
+#!/usr/bin/env node
+
+var splitResults = require('./../index.js');
+var fs = require('fs');
+var chalk = require('chalk');
+var argv = require('yargs')
+	.usage('Usage: $0 [options]')
+	.option('f', {
+		alias: 'file',
+		demand: true,
+		describe: 'File containing API election results',
+		type: 'string'
+	})
+	.option('d', {
+		alias: 'directory',
+		demand: true,
+		describe: 'Directory where APtoJSON will place the output JSON files',
+		type: 'string'
+	})
+	.example('$0 -f results.json -d output')
+	.argv;
+
+var input = fs.readFileSync(argv.file, 'utf8');
+
+var json = null;
+try {
+	json = JSON.parse(input);
+}
+catch(e) {
+	console.log(chalk.red('ERROR: file ' + argv.file + ' is not valid JSON.'));
+	process.exit(1);
+}
+
+splitResults(json, argv.d);
+
+// vim: set ft=javascript:
