@@ -16,7 +16,7 @@ var argv = require('yargs')
 	.option('d', {
 		alias: 'directory',
 		demand: true,
-		describe: 'Directory where APtoJSON will place the output JSON files',
+		describe: 'Directory where ap2json will place the output JSON files',
 		type: 'string'
 	})
 	.example('$0 -f results.json -d output')

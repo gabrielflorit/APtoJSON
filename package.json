@@ -1,17 +1,17 @@
 {
-  "name": "APtoJSON",
+  "name": "ap2json",
   "version": "1.0.0",
   "description": "Convert AP API results to many JSON files, one per state-party-racetype combination.",
   "main": "index.js",
   "bin": {
-    "APtoJSON": "./bin/APtoJSON"
+    "ap2json": "./bin/ap2json"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gabrielflorit/APtoJSON.git"
+    "url": "https://github.com/gabrielflorit/ap2json.git"
   },
   "keywords": [
     "ap",
@@ -22,9 +22,9 @@
   "author": "Gabriel Florit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gabrielflorit/APtoJSON/issues"
+    "url": "https://github.com/gabrielflorit/ap2json/issues"
   },
-  "homepage": "https://github.com/gabrielflorit/APtoJSON",
+  "homepage": "https://github.com/gabrielflorit/ap2json",
   "engines": {
     "node": "0.10.32"
   },
