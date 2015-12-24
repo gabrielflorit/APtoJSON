@@ -1,14 +1,16 @@
 #!/usr/bin/env node
 
+var before = Date.now();
+
 var splitResults = require('./../index.js');
-var fs = require('fs');
+var fs = require('fs-extra');
 var chalk = require('chalk');
 var argv = require('yargs')
 	.usage('Usage: $0 [options]')
 	.option('f', {
 		alias: 'file',
 		demand: true,
-		describe: 'File containing API election results',
+		describe: 'File containing API election results. Must have a <races> field.',
 		type: 'string'
 	})
 	.option('d', {
@@ -31,6 +33,22 @@ catch(e) {
 	process.exit(1);
 }
 
+// empty output directory
+fs.emptyDirSync(argv.d);
+console.log(chalk.green('Emptying ' + argv.d + ' directory'));
+
+// write out many little json files
 splitResults(json, argv.d);
+
+// get count of files in output directory
+var filenames = fs.readdirSync(argv.d);
+
+// make sure output directory contains same number as input races
+if (json.races.length !== filenames.length) {
+	console.log(chalk.red('ERROR: output directory contains less races than input file. This means that we cannot uniquely identify a race by <state>-<party>-<raceType>.'));
+}
+
+var after = Date.now();
+console.log(chalk.green('Wrote ' + filenames.length + ' files in ' + (after - before) + ' ms.'));
 
 // vim: set ft=javascript:
