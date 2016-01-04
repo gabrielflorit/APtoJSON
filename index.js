@@ -1,5 +1,6 @@
 var fs = require('fs');
 var chalk = require('chalk');
+var partiesAbbreviation = require('./util/parties-abbreviations.js');
 
 module.exports = function splitResults(json, directory) {
 
@@ -16,6 +17,9 @@ module.exports = function splitResults(json, directory) {
 
 		// add election date to race
 		race.electionDate = electionDate;
+
+		// add party name to race
+		race.partyName = partiesAbbreviation[race.party];
 
 		fs.writeFileSync(filename, JSON.stringify(race, null, 2));
 		console.log(chalk.green('Writing ' + filename));
