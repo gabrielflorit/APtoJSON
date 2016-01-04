@@ -1,6 +1,6 @@
 {
   "name": "ap2json",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "Convert AP API results to many JSON files, one per state-party-racetype combination.",
   "main": "index.js",
   "bin": {
