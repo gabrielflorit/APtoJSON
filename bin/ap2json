@@ -33,9 +33,9 @@ catch(e) {
 	process.exit(1);
 }
 
-// empty output directory
-fs.emptyDirSync(argv.d);
-console.log(chalk.green('Emptying ' + argv.d + ' directory'));
+// // empty output directory
+// fs.emptyDirSync(argv.d);
+// console.log(chalk.green('Emptying ' + argv.d + ' directory'));
 
 // write out many little json files
 splitResults(json, argv.d);
