@@ -12,7 +12,7 @@ module.exports = function splitResults(json, directory) {
 		var state = race.reportingUnits[0].statePostal;
 		var party = race.party;
 		var raceType = race.raceType;
-		var filename = directory + '/' + [state, party, raceType].join('-') + '.json';
+		var filename = directory + '/' + [state, party, raceType].join('-').toLowerCase() + '.json';
 
 		// add election date to race
 		race.electionDate = electionDate;
