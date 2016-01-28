@@ -5,10 +5,11 @@ Convert AP API results to many JSON files, one per state-party-racetype combinat
 
 	Options:
 		-f, --file       File containing API election results. Must have a <races> field.  [string] [required]
-		-d, --directory  Directory where ap2json will place the output JSON files  [string] [required]
+		-d, --directory  Directory where ap2json will place the output JSON files.  [string] [required]
+		-c, --clear      Whether to clear output directory before writing output files.  [boolean] [default: true]
 
 		Examples:
-			ap2json -f results.json -d output
+			ap2json -f results.json -d output -c false
 
 ## Real-world example
 
