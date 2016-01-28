@@ -16,8 +16,15 @@ var argv = require('yargs')
 	.option('d', {
 		alias: 'directory',
 		demand: true,
-		describe: 'Directory where ap2json will place the output JSON files',
+		describe: 'Directory where ap2json will place the output JSON files.',
 		type: 'string'
+	})
+	.option('c', {
+		alias: 'clear',
+		demand: false,
+		default: true,
+		describe: 'Whether to clear output directory before writing output files.',
+		type: 'boolean'
 	})
 	.example('$0 -f results.json -d output')
 	.argv;
@@ -33,9 +40,13 @@ catch(e) {
 	process.exit(1);
 }
 
-// empty output directory
-fs.emptyDirSync(argv.d);
-console.log(chalk.green('Emptying ' + argv.d + ' directory'));
+console.log(argv.clear);
+
+if (argv.clear) {
+	// empty output directory
+	fs.emptyDirSync(argv.d);
+	console.log(chalk.green('Emptying ' + argv.d + ' directory'));
+}
 
 // write out many little json files
 splitResults(json, argv.d);
@@ -45,10 +56,10 @@ var filenames = fs.readdirSync(argv.d);
 
 // make sure output directory contains same number as input races
 if (json.races.length !== filenames.length) {
-	console.log(chalk.red('ERROR: output directory contains less races than input file. This means that we cannot uniquely identify a race by <state>-<party>-<raceType>.'));
+	console.log(chalk.yellow('WARNING: output directory contains less races than input file. This means that we cannot uniquely identify a race by <state>-<party>-<raceType>.'));
 }
 
 var after = Date.now();
-console.log(chalk.green('Wrote ' + filenames.length + ' files in ' + (after - before) + ' ms.'));
+console.log(chalk.green('Wrote ' + json.races.length + ' files in ' + (after - before) + ' ms.'));
 
 // vim: set ft=javascript:
