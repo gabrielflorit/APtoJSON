@@ -19,7 +19,7 @@ Split one AP API request into many JSON files. Currently only works on president
 curl 'https://api.ap.org/v2/elections/2016-02-01?test=true&level=ru&apikey=<APTOKEN>&format=json' > ia.json
 ap2json -f ia.json -d races
 ```
-![output](https://cloud.githubusercontent.com/assets/370976/12668247/8c7ee80a-c622-11e5-990f-1ff02c7cc20a.png)
+![output](https://cloud.githubusercontent.com/assets/370976/12668272/e0ff613e-c622-11e5-964d-ac6fc4bef2b8.png)
 
 ## Install
 
