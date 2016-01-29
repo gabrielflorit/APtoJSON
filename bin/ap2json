@@ -49,16 +49,10 @@ if (argv.clear) {
 // write out many little json files
 splitResults(json, argv.d);
 
-// // get count of files in output directory
-// var filenames = fs.readdirSync(argv.d);
-
-// // make sure output directory contains same number as input races
-// if (json.races.length !== filenames.length) {
-// 	console.log(chalk.yellow('WARNING: output directory contains less races than input file. This means that we cannot uniquely identify a race by <state>-<party>-<raceType>.'));
-// }
+// get count of files in output directory
+var filenames = fs.readdirSync(argv.d);
 
 var after = Date.now();
-// console.log(chalk.green('Wrote ' + json.races.length + ' files in ' + (after - before) + ' ms.'));
-console.log(chalk.green('Wrote many files in ' + (after - before) + ' ms.'));
+console.log(chalk.green('Wrote ' + json.races.length + ' files in ' + (after - before) + ' ms.'));
 
 // vim: set ft=javascript:

@@ -1,8 +1,6 @@
 # ap2json
 TODO
 explain how this only does primaries for now
-also do the non-ru version - make script spit out state-level
-make the makefile delete nextrequest and timeframe so we don't have to do it then.
 
 Convert AP API results to many JSON files, one per state-party-racetype combination.
 
