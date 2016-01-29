@@ -1,7 +1,7 @@
 {
   "name": "ap2json",
   "version": "2.0.0",
-  "description": "Convert AP API results to many JSON files, one per state-party-racetype combination.",
+  "description": "Split one AP API request into many JSON files.",
   "main": "index.js",
   "bin": {
     "ap2json": "./bin/ap2json"
