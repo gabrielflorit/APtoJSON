@@ -1,4 +1,6 @@
 # ap2json
+[![Build Status](https://travis-ci.org/gabrielflorit/ap2json.svg?branch=master)](https://travis-ci.org/gabrielflorit/ap2json)
+
 TODO
 explain how this only does primaries for now
 
