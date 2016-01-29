@@ -40,7 +40,7 @@ module.exports = function splitResults(json, directory) {
 	json.races.forEach(function(race, index, array) {
 
 		// create a result
-		const result = Object.assign({}, json, {
+		const result = assign({}, json, {
 			races: [race]
 		});
 
