@@ -1,0 +1,108 @@
+{
+  "electionDate": "2012-03-13",
+  "races": [
+    {
+      "test": false,
+      "raceID": "1670",
+      "raceType": "Primary",
+      "raceTypeID": "R",
+      "officeID": "P",
+      "officeName": "President",
+      "party": "GOP",
+      "reportingUnits": [
+        {
+          "statePostal": "AL",
+          "stateName": "Alabama",
+          "level": "state",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 2136,
+          "precinctsTotal": 2136,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Rick",
+              "last": "Santorum",
+              "party": "GOP",
+              "candidateID": "4377",
+              "polID": "1752",
+              "ballotOrder": 7,
+              "polNum": "3151",
+              "voteCount": 214545,
+              "winner": "X"
+            },
+            {
+              "first": "Newt",
+              "last": "Gingrich",
+              "party": "GOP",
+              "candidateID": "4378",
+              "polID": "12094",
+              "ballotOrder": 2,
+              "polNum": "3146",
+              "voteCount": 182197
+            },
+            {
+              "first": "Mitt",
+              "last": "Romney",
+              "party": "GOP",
+              "candidateID": "4375",
+              "polID": "893",
+              "ballotOrder": 6,
+              "polNum": "3150",
+              "voteCount": 180250
+            },
+            {
+              "first": "Ron",
+              "last": "Paul",
+              "party": "GOP",
+              "candidateID": "4376",
+              "polID": "302",
+              "ballotOrder": 4,
+              "polNum": "3148",
+              "voteCount": 30892
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "GOP",
+              "candidateID": "4373",
+              "polID": "100004",
+              "ballotOrder": 8,
+              "polNum": "3152",
+              "voteCount": 9253
+            },
+            {
+              "first": "Rick",
+              "last": "Perry",
+              "party": "GOP",
+              "candidateID": "4374",
+              "polID": "362",
+              "ballotOrder": 5,
+              "polNum": "3149",
+              "voteCount": 1866
+            },
+            {
+              "first": "Michele",
+              "last": "Bachmann",
+              "party": "GOP",
+              "candidateID": "4380",
+              "polID": "55336",
+              "ballotOrder": 1,
+              "polNum": "3153",
+              "voteCount": 1695
+            },
+            {
+              "first": "Jon",
+              "last": "Huntsman",
+              "party": "GOP",
+              "candidateID": "4379",
+              "polID": "50061",
+              "ballotOrder": 3,
+              "polNum": "3147",
+              "voteCount": 1044
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

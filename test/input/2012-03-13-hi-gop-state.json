@@ -1,0 +1,69 @@
+{
+  "electionDate": "2012-03-13",
+  "races": [
+    {
+      "test": false,
+      "raceID": "12898",
+      "raceType": "Caucus",
+      "raceTypeID": "S",
+      "officeID": "P",
+      "officeName": "President",
+      "party": "GOP",
+      "reportingUnits": [
+        {
+          "statePostal": "HI",
+          "stateName": "Hawaii",
+          "level": "state",
+          "lastUpdated": "2015-08-12T16:09:09Z",
+          "precinctsReporting": 45,
+          "precinctsTotal": 45,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Mitt",
+              "last": "Romney",
+              "party": "GOP",
+              "candidateID": "17787",
+              "polID": "893",
+              "ballotOrder": 3,
+              "polNum": "14604",
+              "voteCount": 4548,
+              "winner": "X"
+            },
+            {
+              "first": "Rick",
+              "last": "Santorum",
+              "abbrv": "Santorm",
+              "party": "GOP",
+              "candidateID": "17786",
+              "polID": "1752",
+              "ballotOrder": 4,
+              "polNum": "14603",
+              "voteCount": 2589
+            },
+            {
+              "first": "Ron",
+              "last": "Paul",
+              "party": "GOP",
+              "candidateID": "17785",
+              "polID": "302",
+              "ballotOrder": 2,
+              "polNum": "14602",
+              "voteCount": 1975
+            },
+            {
+              "first": "Newt",
+              "last": "Gingrich",
+              "party": "GOP",
+              "candidateID": "17782",
+              "polID": "12094",
+              "ballotOrder": 1,
+              "polNum": "14599",
+              "voteCount": 1116
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

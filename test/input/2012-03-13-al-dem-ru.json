@@ -1,2326 +1,2326 @@
 {
-    "electionDate": "2012-03-13",
-    "races": [
+  "electionDate": "2012-03-13",
+  "races": [
+    {
+      "test": false,
+      "raceID": "1817",
+      "raceType": "Primary",
+      "raceTypeID": "D",
+      "officeID": "P",
+      "officeName": "President",
+      "party": "Dem",
+      "reportingUnits": [
         {
-            "officeID": "P",
-            "officeName": "President",
-            "party": "Dem",
-            "raceID": "1817",
-            "raceType": "Primary",
-            "raceTypeID": "D",
-            "reportingUnits": [
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 166428
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 39496
-                        }
-                    ],
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "state",
-                    "precinctsReporting": 2136,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 2136,
-                    "stateName": "Alabama",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 695
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 37
-                        }
-                    ],
-                    "fipsCode": "1001",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 18,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 18,
-                    "reportingunitID": "1001",
-                    "reportingunitName": "Autauga",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 894
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 125
-                        }
-                    ],
-                    "fipsCode": "1003",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 46,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 46,
-                    "reportingunitID": "1002",
-                    "reportingunitName": "Baldwin",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2553
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 947
-                        }
-                    ],
-                    "fipsCode": "1005",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 18,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 18,
-                    "reportingunitID": "1003",
-                    "reportingunitName": "Barbour",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 477
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 65
-                        }
-                    ],
-                    "fipsCode": "1007",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 9,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 9,
-                    "reportingunitID": "1004",
-                    "reportingunitName": "Bibb",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 149
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 69
-                        }
-                    ],
-                    "fipsCode": "1009",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 25,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 25,
-                    "reportingunitID": "1005",
-                    "reportingunitName": "Blount",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2319
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 309
-                        }
-                    ],
-                    "fipsCode": "1011",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 16,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 16,
-                    "reportingunitID": "1006",
-                    "reportingunitName": "Bullock",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1684
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 755
-                        }
-                    ],
-                    "fipsCode": "1013",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 25,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 25,
-                    "reportingunitID": "1007",
-                    "reportingunitName": "Butler",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1547
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 138
-                        }
-                    ],
-                    "fipsCode": "1015",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 49,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 49,
-                    "reportingunitID": "1008",
-                    "reportingunitName": "Calhoun",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2143
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 486
-                        }
-                    ],
-                    "fipsCode": "1017",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 25,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 25,
-                    "reportingunitID": "1009",
-                    "reportingunitName": "Chambers",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 998
-                        },
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 778
-                        }
-                    ],
-                    "fipsCode": "1019",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 24,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 24,
-                    "reportingunitID": "1010",
-                    "reportingunitName": "Cherokee",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 252
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 34
-                        }
-                    ],
-                    "fipsCode": "1021",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 19,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 19,
-                    "reportingunitID": "1011",
-                    "reportingunitName": "Chilton",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2440
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1337
-                        }
-                    ],
-                    "fipsCode": "1023",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 33,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 33,
-                    "reportingunitID": "1012",
-                    "reportingunitName": "Choctaw",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2819
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 191
-                        }
-                    ],
-                    "fipsCode": "1025",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 30,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 30,
-                    "reportingunitID": "1013",
-                    "reportingunitName": "Clarke",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1093
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 988
-                        }
-                    ],
-                    "fipsCode": "1027",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 15,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 15,
-                    "reportingunitID": "1014",
-                    "reportingunitName": "Clay",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 67
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 13
-                        }
-                    ],
-                    "fipsCode": "1029",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 15,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 15,
-                    "reportingunitID": "1015",
-                    "reportingunitName": "Cleburne",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 924
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 65
-                        }
-                    ],
-                    "fipsCode": "1031",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 33,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 33,
-                    "reportingunitID": "1016",
-                    "reportingunitName": "Coffee",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 3114
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 2029
-                        }
-                    ],
-                    "fipsCode": "1033",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 37,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 37,
-                    "reportingunitID": "1017",
-                    "reportingunitName": "Colbert",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2235
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1182
-                        }
-                    ],
-                    "fipsCode": "1035",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 27,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 27,
-                    "reportingunitID": "1018",
-                    "reportingunitName": "Conecuh",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 556
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 34
-                        }
-                    ],
-                    "fipsCode": "1037",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 13,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 13,
-                    "reportingunitID": "1019",
-                    "reportingunitName": "Coosa",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 454
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 47
-                        }
-                    ],
-                    "fipsCode": "1039",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 26,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 26,
-                    "reportingunitID": "1020",
-                    "reportingunitName": "Covington",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 355
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 24
-                        }
-                    ],
-                    "fipsCode": "1041",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 19,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 19,
-                    "reportingunitID": "1021",
-                    "reportingunitName": "Crenshaw",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 652
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 323
-                        }
-                    ],
-                    "fipsCode": "1043",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 50,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 50,
-                    "reportingunitID": "1022",
-                    "reportingunitName": "Cullman",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 292
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 40
-                        }
-                    ],
-                    "fipsCode": "1045",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 20,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 20,
-                    "reportingunitID": "1023",
-                    "reportingunitName": "Dale",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 7314
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1665
-                        }
-                    ],
-                    "fipsCode": "1047",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 30,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 30,
-                    "reportingunitID": "1024",
-                    "reportingunitName": "Dallas",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1075
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 786
-                        }
-                    ],
-                    "fipsCode": "1049",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 52,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 52,
-                    "reportingunitID": "1025",
-                    "reportingunitName": "DeKalb",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1154
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 67
-                        }
-                    ],
-                    "fipsCode": "1051",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 29,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 29,
-                    "reportingunitID": "1026",
-                    "reportingunitName": "Elmore",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1150
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 50
-                        }
-                    ],
-                    "fipsCode": "1053",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 30,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 30,
-                    "reportingunitID": "1027",
-                    "reportingunitName": "Escambia",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1107
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 180
-                        }
-                    ],
-                    "fipsCode": "1055",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 42,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 42,
-                    "reportingunitID": "1028",
-                    "reportingunitName": "Etowah",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1161
-                        },
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 826
-                        }
-                    ],
-                    "fipsCode": "1057",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 30,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 30,
-                    "reportingunitID": "1029",
-                    "reportingunitName": "Fayette",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1972
-                        },
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1324
-                        }
-                    ],
-                    "fipsCode": "1059",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 25,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 25,
-                    "reportingunitID": "1030",
-                    "reportingunitName": "Franklin",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 74
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 14
-                        }
-                    ],
-                    "fipsCode": "1061",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 26,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 26,
-                    "reportingunitID": "1031",
-                    "reportingunitName": "Geneva",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2480
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 164
-                        }
-                    ],
-                    "fipsCode": "1063",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 15,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 15,
-                    "reportingunitID": "1032",
-                    "reportingunitName": "Greene",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2940
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1014
-                        }
-                    ],
-                    "fipsCode": "1065",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 15,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 15,
-                    "reportingunitID": "1033",
-                    "reportingunitName": "Hale",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1104
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 31
-                        }
-                    ],
-                    "fipsCode": "1067",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 17,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 17,
-                    "reportingunitID": "1034",
-                    "reportingunitName": "Henry",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 842
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 49
-                        }
-                    ],
-                    "fipsCode": "1069",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 29,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 29,
-                    "reportingunitID": "1035",
-                    "reportingunitName": "Houston",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 3713
-                        },
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2335
-                        }
-                    ],
-                    "fipsCode": "1071",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 38,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 38,
-                    "reportingunitID": "1036",
-                    "reportingunitName": "Jackson",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 30963
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 728
-                        }
-                    ],
-                    "fipsCode": "1073",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 179,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 179,
-                    "reportingunitID": "1037",
-                    "reportingunitName": "Jefferson",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1341
-                        },
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 652
-                        }
-                    ],
-                    "fipsCode": "1075",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 26,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 26,
-                    "reportingunitID": "1039",
-                    "reportingunitName": "Lamar",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2890
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1841
-                        }
-                    ],
-                    "fipsCode": "1077",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 32,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 32,
-                    "reportingunitID": "1040",
-                    "reportingunitName": "Lauderdale",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1515
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1111
-                        }
-                    ],
-                    "fipsCode": "1079",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 29,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 29,
-                    "reportingunitID": "1041",
-                    "reportingunitName": "Lawrence",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2511
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 51
-                        }
-                    ],
-                    "fipsCode": "1081",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 24,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 24,
-                    "reportingunitID": "1042",
-                    "reportingunitName": "Lee",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 970
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 124
-                        }
-                    ],
-                    "fipsCode": "1083",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 25,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 25,
-                    "reportingunitID": "1043",
-                    "reportingunitName": "Limestone",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 3288
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 349
-                        }
-                    ],
-                    "fipsCode": "1085",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 13,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 13,
-                    "reportingunitID": "1044",
-                    "reportingunitName": "Lowndes",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 3441
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 91
-                        }
-                    ],
-                    "fipsCode": "1087",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 15,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 15,
-                    "reportingunitID": "1045",
-                    "reportingunitName": "Macon",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 5507
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 278
-                        }
-                    ],
-                    "fipsCode": "1089",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 75,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 75,
-                    "reportingunitID": "1046",
-                    "reportingunitName": "Madison",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 3614
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1712
-                        }
-                    ],
-                    "fipsCode": "1091",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 27,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 27,
-                    "reportingunitID": "1047",
-                    "reportingunitName": "Marengo",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 508
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 495
-                        }
-                    ],
-                    "fipsCode": "1093",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 21,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 21,
-                    "reportingunitID": "1048",
-                    "reportingunitName": "Marion",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 301
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 109
-                        }
-                    ],
-                    "fipsCode": "1095",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 39,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 39,
-                    "reportingunitID": "1049",
-                    "reportingunitName": "Marshall",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 8584
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 307
-                        }
-                    ],
-                    "fipsCode": "1097",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 99,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 99,
-                    "reportingunitID": "1050",
-                    "reportingunitName": "Mobile",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2533
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1358
-                        }
-                    ],
-                    "fipsCode": "1099",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 32,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 32,
-                    "reportingunitID": "1051",
-                    "reportingunitName": "Monroe",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 17017
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 365
-                        }
-                    ],
-                    "fipsCode": "1101",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 56,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 56,
-                    "reportingunitID": "1052",
-                    "reportingunitName": "Montgomery",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1090
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 110
-                        }
-                    ],
-                    "fipsCode": "1103",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 45,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 45,
-                    "reportingunitID": "1053",
-                    "reportingunitName": "Morgan",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2937
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 331
-                        }
-                    ],
-                    "fipsCode": "1105",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 13,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 13,
-                    "reportingunitID": "1054",
-                    "reportingunitName": "Perry",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2028
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 984
-                        }
-                    ],
-                    "fipsCode": "1107",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 26,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 26,
-                    "reportingunitID": "1055",
-                    "reportingunitName": "Pickens",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1317
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 64
-                        }
-                    ],
-                    "fipsCode": "1109",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 30,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 30,
-                    "reportingunitID": "1056",
-                    "reportingunitName": "Pike",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1594
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 1504
-                        }
-                    ],
-                    "fipsCode": "1111",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 24,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 24,
-                    "reportingunitID": "1057",
-                    "reportingunitName": "Randolph",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1781
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 275
-                        }
-                    ],
-                    "fipsCode": "1113",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 18,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 18,
-                    "reportingunitID": "1058",
-                    "reportingunitName": "Russell",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 374
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 62
-                        }
-                    ],
-                    "fipsCode": "1115",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 32,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 32,
-                    "reportingunitID": "1059",
-                    "reportingunitName": "St. Clair",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1226
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 88
-                        }
-                    ],
-                    "fipsCode": "1117",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 47,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 47,
-                    "reportingunitID": "1061",
-                    "reportingunitName": "Shelby",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 3054
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 367
-                        }
-                    ],
-                    "fipsCode": "1119",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 14,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 14,
-                    "reportingunitID": "1062",
-                    "reportingunitName": "Sumter",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2721
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 223
-                        }
-                    ],
-                    "fipsCode": "1121",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 28,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 28,
-                    "reportingunitID": "1063",
-                    "reportingunitName": "Talladega",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 2043
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 603
-                        }
-                    ],
-                    "fipsCode": "1123",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 26,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 26,
-                    "reportingunitID": "1064",
-                    "reportingunitName": "Tallapoosa",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 3498
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 151
-                        }
-                    ],
-                    "fipsCode": "1125",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 56,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 56,
-                    "reportingunitID": "1065",
-                    "reportingunitName": "Tuscaloosa",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1172
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 786
-                        }
-                    ],
-                    "fipsCode": "1127",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 46,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 46,
-                    "reportingunitID": "1066",
-                    "reportingunitName": "Walker",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 2098
-                        },
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 1736
-                        }
-                    ],
-                    "fipsCode": "1129",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 18,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 18,
-                    "reportingunitID": "1067",
-                    "reportingunitName": "Washington",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 3301
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 462
-                        }
-                    ],
-                    "fipsCode": "1131",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 29,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 29,
-                    "reportingunitID": "1068",
-                    "reportingunitName": "Wilcox",
-                    "statePostal": "AL"
-                },
-                {
-                    "candidates": [
-                        {
-                            "ballotOrder": 1,
-                            "candidateID": "4423",
-                            "first": "Barack",
-                            "incumbent": true,
-                            "last": "Obama",
-                            "party": "Dem",
-                            "polID": "1918",
-                            "polNum": "3154",
-                            "voteCount": 45
-                        },
-                        {
-                            "abbrv": "Uncmmttd",
-                            "ballotOrder": 2,
-                            "candidateID": "4424",
-                            "last": "Uncommitted",
-                            "party": "Dem",
-                            "polID": "100004",
-                            "polNum": "3152",
-                            "voteCount": 26
-                        }
-                    ],
-                    "fipsCode": "1133",
-                    "lastUpdated": "2015-08-12T16:06:06Z",
-                    "level": "subunit",
-                    "precinctsReporting": 22,
-                    "precinctsReportingPct": 100.0,
-                    "precinctsTotal": 22,
-                    "reportingunitID": "1069",
-                    "reportingunitName": "Winston",
-                    "statePostal": "AL"
-                }
-            ],
-            "test": false
+          "statePostal": "AL",
+          "stateName": "Alabama",
+          "level": "state",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 2136,
+          "precinctsTotal": 2136,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 166428
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 39496
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Autauga",
+          "reportingunitID": "1001",
+          "level": "subunit",
+          "fipsCode": "1001",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 18,
+          "precinctsTotal": 18,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 695
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 37
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Baldwin",
+          "reportingunitID": "1002",
+          "level": "subunit",
+          "fipsCode": "1003",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 46,
+          "precinctsTotal": 46,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 894
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 125
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Barbour",
+          "reportingunitID": "1003",
+          "level": "subunit",
+          "fipsCode": "1005",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 18,
+          "precinctsTotal": 18,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2553
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 947
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Bibb",
+          "reportingunitID": "1004",
+          "level": "subunit",
+          "fipsCode": "1007",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 9,
+          "precinctsTotal": 9,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 477
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 65
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Blount",
+          "reportingunitID": "1005",
+          "level": "subunit",
+          "fipsCode": "1009",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 25,
+          "precinctsTotal": 25,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 149
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 69
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Bullock",
+          "reportingunitID": "1006",
+          "level": "subunit",
+          "fipsCode": "1011",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 16,
+          "precinctsTotal": 16,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2319
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 309
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Butler",
+          "reportingunitID": "1007",
+          "level": "subunit",
+          "fipsCode": "1013",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 25,
+          "precinctsTotal": 25,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1684
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 755
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Calhoun",
+          "reportingunitID": "1008",
+          "level": "subunit",
+          "fipsCode": "1015",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 49,
+          "precinctsTotal": 49,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1547
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 138
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Chambers",
+          "reportingunitID": "1009",
+          "level": "subunit",
+          "fipsCode": "1017",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 25,
+          "precinctsTotal": 25,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2143
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 486
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Cherokee",
+          "reportingunitID": "1010",
+          "level": "subunit",
+          "fipsCode": "1019",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 24,
+          "precinctsTotal": 24,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 998
+            },
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 778
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Chilton",
+          "reportingunitID": "1011",
+          "level": "subunit",
+          "fipsCode": "1021",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 19,
+          "precinctsTotal": 19,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 252
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 34
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Choctaw",
+          "reportingunitID": "1012",
+          "level": "subunit",
+          "fipsCode": "1023",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 33,
+          "precinctsTotal": 33,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2440
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1337
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Clarke",
+          "reportingunitID": "1013",
+          "level": "subunit",
+          "fipsCode": "1025",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 30,
+          "precinctsTotal": 30,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2819
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 191
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Clay",
+          "reportingunitID": "1014",
+          "level": "subunit",
+          "fipsCode": "1027",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 15,
+          "precinctsTotal": 15,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1093
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 988
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Cleburne",
+          "reportingunitID": "1015",
+          "level": "subunit",
+          "fipsCode": "1029",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 15,
+          "precinctsTotal": 15,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 67
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 13
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Coffee",
+          "reportingunitID": "1016",
+          "level": "subunit",
+          "fipsCode": "1031",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 33,
+          "precinctsTotal": 33,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 924
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 65
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Colbert",
+          "reportingunitID": "1017",
+          "level": "subunit",
+          "fipsCode": "1033",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 37,
+          "precinctsTotal": 37,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 3114
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 2029
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Conecuh",
+          "reportingunitID": "1018",
+          "level": "subunit",
+          "fipsCode": "1035",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 27,
+          "precinctsTotal": 27,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2235
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1182
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Coosa",
+          "reportingunitID": "1019",
+          "level": "subunit",
+          "fipsCode": "1037",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 13,
+          "precinctsTotal": 13,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 556
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 34
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Covington",
+          "reportingunitID": "1020",
+          "level": "subunit",
+          "fipsCode": "1039",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 26,
+          "precinctsTotal": 26,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 454
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 47
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Crenshaw",
+          "reportingunitID": "1021",
+          "level": "subunit",
+          "fipsCode": "1041",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 19,
+          "precinctsTotal": 19,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 355
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 24
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Cullman",
+          "reportingunitID": "1022",
+          "level": "subunit",
+          "fipsCode": "1043",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 50,
+          "precinctsTotal": 50,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 652
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 323
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Dale",
+          "reportingunitID": "1023",
+          "level": "subunit",
+          "fipsCode": "1045",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 20,
+          "precinctsTotal": 20,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 292
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 40
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Dallas",
+          "reportingunitID": "1024",
+          "level": "subunit",
+          "fipsCode": "1047",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 30,
+          "precinctsTotal": 30,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 7314
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1665
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "DeKalb",
+          "reportingunitID": "1025",
+          "level": "subunit",
+          "fipsCode": "1049",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 52,
+          "precinctsTotal": 52,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1075
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 786
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Elmore",
+          "reportingunitID": "1026",
+          "level": "subunit",
+          "fipsCode": "1051",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 29,
+          "precinctsTotal": 29,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1154
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 67
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Escambia",
+          "reportingunitID": "1027",
+          "level": "subunit",
+          "fipsCode": "1053",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 30,
+          "precinctsTotal": 30,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1150
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 50
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Etowah",
+          "reportingunitID": "1028",
+          "level": "subunit",
+          "fipsCode": "1055",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 42,
+          "precinctsTotal": 42,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1107
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 180
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Fayette",
+          "reportingunitID": "1029",
+          "level": "subunit",
+          "fipsCode": "1057",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 30,
+          "precinctsTotal": 30,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1161
+            },
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 826
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Franklin",
+          "reportingunitID": "1030",
+          "level": "subunit",
+          "fipsCode": "1059",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 25,
+          "precinctsTotal": 25,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1972
+            },
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1324
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Geneva",
+          "reportingunitID": "1031",
+          "level": "subunit",
+          "fipsCode": "1061",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 26,
+          "precinctsTotal": 26,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 74
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 14
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Greene",
+          "reportingunitID": "1032",
+          "level": "subunit",
+          "fipsCode": "1063",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 15,
+          "precinctsTotal": 15,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2480
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 164
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Hale",
+          "reportingunitID": "1033",
+          "level": "subunit",
+          "fipsCode": "1065",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 15,
+          "precinctsTotal": 15,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2940
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1014
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Henry",
+          "reportingunitID": "1034",
+          "level": "subunit",
+          "fipsCode": "1067",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 17,
+          "precinctsTotal": 17,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1104
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 31
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Houston",
+          "reportingunitID": "1035",
+          "level": "subunit",
+          "fipsCode": "1069",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 29,
+          "precinctsTotal": 29,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 842
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 49
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Jackson",
+          "reportingunitID": "1036",
+          "level": "subunit",
+          "fipsCode": "1071",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 38,
+          "precinctsTotal": 38,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 3713
+            },
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2335
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Jefferson",
+          "reportingunitID": "1037",
+          "level": "subunit",
+          "fipsCode": "1073",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 179,
+          "precinctsTotal": 179,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 30963
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 728
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Lamar",
+          "reportingunitID": "1039",
+          "level": "subunit",
+          "fipsCode": "1075",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 26,
+          "precinctsTotal": 26,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1341
+            },
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 652
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Lauderdale",
+          "reportingunitID": "1040",
+          "level": "subunit",
+          "fipsCode": "1077",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 32,
+          "precinctsTotal": 32,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2890
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1841
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Lawrence",
+          "reportingunitID": "1041",
+          "level": "subunit",
+          "fipsCode": "1079",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 29,
+          "precinctsTotal": 29,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1515
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1111
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Lee",
+          "reportingunitID": "1042",
+          "level": "subunit",
+          "fipsCode": "1081",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 24,
+          "precinctsTotal": 24,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2511
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 51
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Limestone",
+          "reportingunitID": "1043",
+          "level": "subunit",
+          "fipsCode": "1083",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 25,
+          "precinctsTotal": 25,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 970
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 124
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Lowndes",
+          "reportingunitID": "1044",
+          "level": "subunit",
+          "fipsCode": "1085",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 13,
+          "precinctsTotal": 13,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 3288
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 349
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Macon",
+          "reportingunitID": "1045",
+          "level": "subunit",
+          "fipsCode": "1087",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 15,
+          "precinctsTotal": 15,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 3441
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 91
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Madison",
+          "reportingunitID": "1046",
+          "level": "subunit",
+          "fipsCode": "1089",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 75,
+          "precinctsTotal": 75,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 5507
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 278
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Marengo",
+          "reportingunitID": "1047",
+          "level": "subunit",
+          "fipsCode": "1091",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 27,
+          "precinctsTotal": 27,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 3614
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1712
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Marion",
+          "reportingunitID": "1048",
+          "level": "subunit",
+          "fipsCode": "1093",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 21,
+          "precinctsTotal": 21,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 508
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 495
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Marshall",
+          "reportingunitID": "1049",
+          "level": "subunit",
+          "fipsCode": "1095",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 39,
+          "precinctsTotal": 39,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 301
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 109
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Mobile",
+          "reportingunitID": "1050",
+          "level": "subunit",
+          "fipsCode": "1097",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 99,
+          "precinctsTotal": 99,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 8584
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 307
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Monroe",
+          "reportingunitID": "1051",
+          "level": "subunit",
+          "fipsCode": "1099",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 32,
+          "precinctsTotal": 32,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2533
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1358
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Montgomery",
+          "reportingunitID": "1052",
+          "level": "subunit",
+          "fipsCode": "1101",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 56,
+          "precinctsTotal": 56,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 17017
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 365
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Morgan",
+          "reportingunitID": "1053",
+          "level": "subunit",
+          "fipsCode": "1103",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 45,
+          "precinctsTotal": 45,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1090
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 110
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Perry",
+          "reportingunitID": "1054",
+          "level": "subunit",
+          "fipsCode": "1105",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 13,
+          "precinctsTotal": 13,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2937
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 331
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Pickens",
+          "reportingunitID": "1055",
+          "level": "subunit",
+          "fipsCode": "1107",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 26,
+          "precinctsTotal": 26,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2028
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 984
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Pike",
+          "reportingunitID": "1056",
+          "level": "subunit",
+          "fipsCode": "1109",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 30,
+          "precinctsTotal": 30,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1317
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 64
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Randolph",
+          "reportingunitID": "1057",
+          "level": "subunit",
+          "fipsCode": "1111",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 24,
+          "precinctsTotal": 24,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1594
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 1504
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Russell",
+          "reportingunitID": "1058",
+          "level": "subunit",
+          "fipsCode": "1113",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 18,
+          "precinctsTotal": 18,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1781
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 275
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "St. Clair",
+          "reportingunitID": "1059",
+          "level": "subunit",
+          "fipsCode": "1115",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 32,
+          "precinctsTotal": 32,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 374
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 62
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Shelby",
+          "reportingunitID": "1061",
+          "level": "subunit",
+          "fipsCode": "1117",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 47,
+          "precinctsTotal": 47,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1226
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 88
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Sumter",
+          "reportingunitID": "1062",
+          "level": "subunit",
+          "fipsCode": "1119",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 14,
+          "precinctsTotal": 14,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 3054
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 367
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Talladega",
+          "reportingunitID": "1063",
+          "level": "subunit",
+          "fipsCode": "1121",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 28,
+          "precinctsTotal": 28,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2721
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 223
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Tallapoosa",
+          "reportingunitID": "1064",
+          "level": "subunit",
+          "fipsCode": "1123",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 26,
+          "precinctsTotal": 26,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 2043
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 603
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Tuscaloosa",
+          "reportingunitID": "1065",
+          "level": "subunit",
+          "fipsCode": "1125",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 56,
+          "precinctsTotal": 56,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 3498
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 151
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Walker",
+          "reportingunitID": "1066",
+          "level": "subunit",
+          "fipsCode": "1127",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 46,
+          "precinctsTotal": 46,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1172
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 786
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Washington",
+          "reportingunitID": "1067",
+          "level": "subunit",
+          "fipsCode": "1129",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 18,
+          "precinctsTotal": 18,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 2098
+            },
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 1736
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Wilcox",
+          "reportingunitID": "1068",
+          "level": "subunit",
+          "fipsCode": "1131",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 29,
+          "precinctsTotal": 29,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 3301
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 462
+            }
+          ]
+        },
+        {
+          "statePostal": "AL",
+          "reportingunitName": "Winston",
+          "reportingunitID": "1069",
+          "level": "subunit",
+          "fipsCode": "1133",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 22,
+          "precinctsTotal": 22,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 45
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 26
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }

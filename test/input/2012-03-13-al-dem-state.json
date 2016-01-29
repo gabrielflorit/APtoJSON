@@ -1,0 +1,48 @@
+{
+  "electionDate": "2012-03-13",
+  "races": [
+    {
+      "test": false,
+      "raceID": "1817",
+      "raceType": "Primary",
+      "raceTypeID": "D",
+      "officeID": "P",
+      "officeName": "President",
+      "party": "Dem",
+      "reportingUnits": [
+        {
+          "statePostal": "AL",
+          "stateName": "Alabama",
+          "level": "state",
+          "lastUpdated": "2015-08-12T16:06:06Z",
+          "precinctsReporting": 2136,
+          "precinctsTotal": 2136,
+          "precinctsReportingPct": 100,
+          "candidates": [
+            {
+              "first": "Barack",
+              "last": "Obama",
+              "party": "Dem",
+              "incumbent": true,
+              "candidateID": "4423",
+              "polID": "1918",
+              "ballotOrder": 1,
+              "polNum": "3154",
+              "voteCount": 166428
+            },
+            {
+              "last": "Uncommitted",
+              "abbrv": "Uncmmttd",
+              "party": "Dem",
+              "candidateID": "4424",
+              "polID": "100004",
+              "ballotOrder": 2,
+              "polNum": "3152",
+              "voteCount": 39496
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
