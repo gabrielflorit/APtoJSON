@@ -1,5 +1,6 @@
 var fs = require('fs');
 var chalk = require('chalk');
+var assign = require('lodash.assign');
 
 module.exports = function splitResults(json, directory) {
 
@@ -12,12 +13,12 @@ module.exports = function splitResults(json, directory) {
 			return ru.level === 'state';
 		});
 
-		const modifiedRace = Object.assign({}, race, {
+		const modifiedRace = assign({}, race, {
 			reportingUnits: stateRU
 		});
 
 		// create a result
-		const result = Object.assign({}, json, {
+		const result = assign({}, json, {
 			races: [modifiedRace]
 		});
 
