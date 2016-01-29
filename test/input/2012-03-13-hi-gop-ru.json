@@ -1,0 +1,289 @@
+{
+    "electionDate": "2012-03-13",
+    "races": [
+        {
+            "officeID": "P",
+            "officeName": "President",
+            "party": "GOP",
+            "raceID": "12898",
+            "raceType": "Caucus",
+            "raceTypeID": "S",
+            "reportingUnits": [
+                {
+                    "candidates": [
+                        {
+                            "ballotOrder": 3,
+                            "candidateID": "17787",
+                            "first": "Mitt",
+                            "last": "Romney",
+                            "party": "GOP",
+                            "polID": "893",
+                            "polNum": "14604",
+                            "voteCount": 4548,
+                            "winner": "X"
+                        },
+                        {
+                            "abbrv": "Santorm",
+                            "ballotOrder": 4,
+                            "candidateID": "17786",
+                            "first": "Rick",
+                            "last": "Santorum",
+                            "party": "GOP",
+                            "polID": "1752",
+                            "polNum": "14603",
+                            "voteCount": 2589
+                        },
+                        {
+                            "ballotOrder": 2,
+                            "candidateID": "17785",
+                            "first": "Ron",
+                            "last": "Paul",
+                            "party": "GOP",
+                            "polID": "302",
+                            "polNum": "14602",
+                            "voteCount": 1975
+                        },
+                        {
+                            "ballotOrder": 1,
+                            "candidateID": "17782",
+                            "first": "Newt",
+                            "last": "Gingrich",
+                            "party": "GOP",
+                            "polID": "12094",
+                            "polNum": "14599",
+                            "voteCount": 1116
+                        }
+                    ],
+                    "lastUpdated": "2015-08-12T16:09:09Z",
+                    "level": "state",
+                    "precinctsReporting": 45,
+                    "precinctsReportingPct": 100.0,
+                    "precinctsTotal": 45,
+                    "stateName": "Hawaii",
+                    "statePostal": "HI"
+                },
+                {
+                    "candidates": [
+                        {
+                            "ballotOrder": 3,
+                            "candidateID": "17787",
+                            "first": "Mitt",
+                            "last": "Romney",
+                            "party": "GOP",
+                            "polID": "893",
+                            "polNum": "14604",
+                            "voteCount": 433,
+                            "winner": "X"
+                        },
+                        {
+                            "ballotOrder": 2,
+                            "candidateID": "17785",
+                            "first": "Ron",
+                            "last": "Paul",
+                            "party": "GOP",
+                            "polID": "302",
+                            "polNum": "14602",
+                            "voteCount": 455
+                        },
+                        {
+                            "abbrv": "Santorm",
+                            "ballotOrder": 4,
+                            "candidateID": "17786",
+                            "first": "Rick",
+                            "last": "Santorum",
+                            "party": "GOP",
+                            "polID": "1752",
+                            "polNum": "14603",
+                            "voteCount": 320
+                        },
+                        {
+                            "ballotOrder": 1,
+                            "candidateID": "17782",
+                            "first": "Newt",
+                            "last": "Gingrich",
+                            "party": "GOP",
+                            "polID": "12094",
+                            "polNum": "14599",
+                            "voteCount": 209
+                        }
+                    ],
+                    "fipsCode": "15001",
+                    "lastUpdated": "2015-08-12T16:09:09Z",
+                    "level": "subunit",
+                    "precinctsReporting": 11,
+                    "precinctsReportingPct": 100.0,
+                    "precinctsTotal": 11,
+                    "reportingunitID": "12001",
+                    "reportingunitName": "Hawaii",
+                    "statePostal": "HI"
+                },
+                {
+                    "candidates": [
+                        {
+                            "ballotOrder": 3,
+                            "candidateID": "17787",
+                            "first": "Mitt",
+                            "last": "Romney",
+                            "party": "GOP",
+                            "polID": "893",
+                            "polNum": "14604",
+                            "voteCount": 3610,
+                            "winner": "X"
+                        },
+                        {
+                            "abbrv": "Santorm",
+                            "ballotOrder": 4,
+                            "candidateID": "17786",
+                            "first": "Rick",
+                            "last": "Santorum",
+                            "party": "GOP",
+                            "polID": "1752",
+                            "polNum": "14603",
+                            "voteCount": 1875
+                        },
+                        {
+                            "ballotOrder": 2,
+                            "candidateID": "17785",
+                            "first": "Ron",
+                            "last": "Paul",
+                            "party": "GOP",
+                            "polID": "302",
+                            "polNum": "14602",
+                            "voteCount": 1070
+                        },
+                        {
+                            "ballotOrder": 1,
+                            "candidateID": "17782",
+                            "first": "Newt",
+                            "last": "Gingrich",
+                            "party": "GOP",
+                            "polID": "12094",
+                            "polNum": "14599",
+                            "voteCount": 693
+                        }
+                    ],
+                    "fipsCode": "15003",
+                    "lastUpdated": "2015-08-12T16:09:09Z",
+                    "level": "subunit",
+                    "precinctsReporting": 23,
+                    "precinctsReportingPct": 100.0,
+                    "precinctsTotal": 23,
+                    "reportingunitID": "12002",
+                    "reportingunitName": "Honolulu",
+                    "statePostal": "HI"
+                },
+                {
+                    "candidates": [
+                        {
+                            "ballotOrder": 3,
+                            "candidateID": "17787",
+                            "first": "Mitt",
+                            "last": "Romney",
+                            "party": "GOP",
+                            "polID": "893",
+                            "polNum": "14604",
+                            "voteCount": 168,
+                            "winner": "X"
+                        },
+                        {
+                            "abbrv": "Santorm",
+                            "ballotOrder": 4,
+                            "candidateID": "17786",
+                            "first": "Rick",
+                            "last": "Santorum",
+                            "party": "GOP",
+                            "polID": "1752",
+                            "polNum": "14603",
+                            "voteCount": 132
+                        },
+                        {
+                            "ballotOrder": 2,
+                            "candidateID": "17785",
+                            "first": "Ron",
+                            "last": "Paul",
+                            "party": "GOP",
+                            "polID": "302",
+                            "polNum": "14602",
+                            "voteCount": 122
+                        },
+                        {
+                            "ballotOrder": 1,
+                            "candidateID": "17782",
+                            "first": "Newt",
+                            "last": "Gingrich",
+                            "party": "GOP",
+                            "polID": "12094",
+                            "polNum": "14599",
+                            "voteCount": 42
+                        }
+                    ],
+                    "fipsCode": "15007",
+                    "lastUpdated": "2015-08-12T16:09:09Z",
+                    "level": "subunit",
+                    "precinctsReporting": 3,
+                    "precinctsReportingPct": 100.0,
+                    "precinctsTotal": 3,
+                    "reportingunitID": "12003",
+                    "reportingunitName": "Kauai",
+                    "statePostal": "HI"
+                },
+                {
+                    "candidates": [
+                        {
+                            "ballotOrder": 3,
+                            "candidateID": "17787",
+                            "first": "Mitt",
+                            "last": "Romney",
+                            "party": "GOP",
+                            "polID": "893",
+                            "polNum": "14604",
+                            "voteCount": 337,
+                            "winner": "X"
+                        },
+                        {
+                            "ballotOrder": 2,
+                            "candidateID": "17785",
+                            "first": "Ron",
+                            "last": "Paul",
+                            "party": "GOP",
+                            "polID": "302",
+                            "polNum": "14602",
+                            "voteCount": 328
+                        },
+                        {
+                            "abbrv": "Santorm",
+                            "ballotOrder": 4,
+                            "candidateID": "17786",
+                            "first": "Rick",
+                            "last": "Santorum",
+                            "party": "GOP",
+                            "polID": "1752",
+                            "polNum": "14603",
+                            "voteCount": 262
+                        },
+                        {
+                            "ballotOrder": 1,
+                            "candidateID": "17782",
+                            "first": "Newt",
+                            "last": "Gingrich",
+                            "party": "GOP",
+                            "polID": "12094",
+                            "polNum": "14599",
+                            "voteCount": 172
+                        }
+                    ],
+                    "fipsCode": "15009",
+                    "lastUpdated": "2015-08-12T16:09:09Z",
+                    "level": "subunit",
+                    "precinctsReporting": 8,
+                    "precinctsReportingPct": 100.0,
+                    "precinctsTotal": 8,
+                    "reportingunitID": "12004",
+                    "reportingunitName": "Maui",
+                    "statePostal": "HI"
+                }
+            ],
+            "test": false
+        }
+    ]
+}

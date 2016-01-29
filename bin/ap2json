@@ -10,7 +10,7 @@ var argv = require('yargs')
 	.option('f', {
 		alias: 'file',
 		demand: true,
-		describe: 'File containing API election results. Must have a <races> field.',
+		describe: 'File containing API election results.',
 		type: 'string'
 	})
 	.option('d', {
@@ -40,8 +40,6 @@ catch(e) {
 	process.exit(1);
 }
 
-console.log(argv.clear);
-
 if (argv.clear) {
 	// empty output directory
 	fs.emptyDirSync(argv.d);
@@ -51,15 +49,16 @@ if (argv.clear) {
 // write out many little json files
 splitResults(json, argv.d);
 
-// get count of files in output directory
-var filenames = fs.readdirSync(argv.d);
+// // get count of files in output directory
+// var filenames = fs.readdirSync(argv.d);
 
-// make sure output directory contains same number as input races
-if (json.races.length !== filenames.length) {
-	console.log(chalk.yellow('WARNING: output directory contains less races than input file. This means that we cannot uniquely identify a race by <state>-<party>-<raceType>.'));
-}
+// // make sure output directory contains same number as input races
+// if (json.races.length !== filenames.length) {
+// 	console.log(chalk.yellow('WARNING: output directory contains less races than input file. This means that we cannot uniquely identify a race by <state>-<party>-<raceType>.'));
+// }
 
 var after = Date.now();
-console.log(chalk.green('Wrote ' + json.races.length + ' files in ' + (after - before) + ' ms.'));
+// console.log(chalk.green('Wrote ' + json.races.length + ' files in ' + (after - before) + ' ms.'));
+console.log(chalk.green('Wrote many files in ' + (after - before) + ' ms.'));
 
 // vim: set ft=javascript:

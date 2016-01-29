@@ -3,21 +3,25 @@ var chalk = require('chalk');
 
 module.exports = function splitResults(json, directory) {
 
-	var electionDate = json.electionDate;
-
 	// save each json.races item as a separate file
 	json.races.forEach(function(race, index, array) {
 
-		// create file name
-		var state = race.reportingUnits[0].statePostal;
-		var party = race.party;
-		var raceType = race.raceType;
-		var filename = directory + '/' + [state, party, raceType].join('-').toLowerCase() + '.json';
+		// create a result that doesn't have nextrequest or timestamp
+		const result = {
+			electionDate: json.electionDate,
+			races: [race]
+		};
 
-		// add election date to race
-		race.electionDate = electionDate;
+		// create file name, e.g. al-dem-ru or al-dem-state
+		// TODO: we'll stick to ru for now. we'll ru/state later
+		var state = race.reportingUnits[0].statePostal; // AL
+		var party = race.party; // Dem
+		var filename = directory + '/' + [state, party, 'ru'].join('-').toLowerCase() + '.json';
 
-		fs.writeFileSync(filename, JSON.stringify(race, null, 2));
+		// write file to disk
+		fs.writeFileSync(filename, JSON.stringify(result, null, 4));
+
+		// tell user we wrote file to disk
 		console.log(chalk.green('Writing ' + filename));
 
 	});
