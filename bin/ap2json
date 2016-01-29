@@ -49,10 +49,7 @@ if (argv.clear) {
 // write out many little json files
 splitResults(json, argv.d);
 
-// get count of files in output directory
-var filenames = fs.readdirSync(argv.d);
-
 var after = Date.now();
-console.log(chalk.green('Wrote ' + json.races.length + ' files in ' + (after - before) + ' ms.'));
+console.log(chalk.green('Wrote ' + (2*json.races.length) + ' files in ' + (after - before) + ' ms.'));
 
 // vim: set ft=javascript:
