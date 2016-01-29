@@ -14,7 +14,7 @@ test('All primaries on 2012-03-13 (AL-DEM, AL-GOP, HI-GOP, MS-GOP) should create
 	rimraf.sync(tempDir);
 
 	// run ap2json on the file
-	shelljs.exec(`bin/ap2json -f ${inputFile} -d ${tempDir}`);
+	shelljs.exec('bin/ap2json -f ' + inputFile + ' -d ' + tempDir);
 
 	// assert that the temp directory has the appropriate number of files
 	var files = fs.readdirSync(tempDir);
