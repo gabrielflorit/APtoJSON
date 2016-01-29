@@ -21,24 +21,24 @@ test('All primaries on 2012-03-13 (AL-DEM, AL-GOP, HI-GOP, MS-GOP) should create
 	assert.equal(files.length, 4);
 
 	// assert, one by one, each file's contents
-	assert.equal(
-		JSON.stringify(JSON.parse(fs.readFileSync(inputDir + '/2012-03-13-al-dem-ru.json', 'utf8'))),
-		JSON.stringify(JSON.parse(fs.readFileSync(tempDir + '/al-dem-ru.json', 'utf8')))
+	assert.deepEqual(
+		JSON.parse(fs.readFileSync(inputDir + '/2012-03-13-al-dem-ru.json', 'utf8')),
+		JSON.parse(fs.readFileSync(tempDir + '/al-dem-ru.json', 'utf8'))
 	);
 
-	assert.equal(
-		JSON.stringify(JSON.parse(fs.readFileSync(inputDir + '/2012-03-13-al-gop-ru.json', 'utf8'))),
-		JSON.stringify(JSON.parse(fs.readFileSync(tempDir + '/al-gop-ru.json', 'utf8')))
+	assert.deepEqual(
+		JSON.parse(fs.readFileSync(inputDir + '/2012-03-13-al-gop-ru.json', 'utf8')),
+		JSON.parse(fs.readFileSync(tempDir + '/al-gop-ru.json', 'utf8'))
 	);
 
-	assert.equal(
-		JSON.stringify(JSON.parse(fs.readFileSync(inputDir + '/2012-03-13-hi-gop-ru.json', 'utf8'))),
-		JSON.stringify(JSON.parse(fs.readFileSync(tempDir + '/hi-gop-ru.json', 'utf8')))
+	assert.deepEqual(
+		JSON.parse(fs.readFileSync(inputDir + '/2012-03-13-hi-gop-ru.json', 'utf8')),
+		JSON.parse(fs.readFileSync(tempDir + '/hi-gop-ru.json', 'utf8'))
 	);
 
-	assert.equal(
-		JSON.stringify(JSON.parse(fs.readFileSync(inputDir + '/2012-03-13-ms-gop-ru.json', 'utf8'))),
-		JSON.stringify(JSON.parse(fs.readFileSync(tempDir + '/ms-gop-ru.json', 'utf8')))
+	assert.deepEqual(
+		JSON.parse(fs.readFileSync(inputDir + '/2012-03-13-ms-gop-ru.json', 'utf8')),
+		JSON.parse(fs.readFileSync(tempDir + '/ms-gop-ru.json', 'utf8'))
 	);
 
 	assert.end();
