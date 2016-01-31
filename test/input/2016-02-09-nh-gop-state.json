@@ -1,0 +1,338 @@
+{
+    "electionDate": "2016-02-09",
+    "races": [
+        {
+            "national": true,
+            "officeID": "P",
+            "officeName": "President",
+            "party": "GOP",
+            "raceID": "31146",
+            "raceType": "Primary",
+            "raceTypeID": "R",
+            "reportingUnits": [
+                {
+                    "candidates": [
+                        {
+                            "ballotOrder": 10,
+                            "candidateID": "46008",
+                            "first": "Carly",
+                            "last": "Fiorina",
+                            "party": "GOP",
+                            "polID": "60339",
+                            "polNum": "39880",
+                            "voteCount": 7676
+                        },
+                        {
+                            "ballotOrder": 13,
+                            "candidateID": "46015",
+                            "first": "Mike",
+                            "last": "Huckabee",
+                            "party": "GOP",
+                            "polID": "1187",
+                            "polNum": "39883",
+                            "voteCount": 5682
+                        },
+                        {
+                            "ballotOrder": 6,
+                            "candidateID": "46014",
+                            "first": "Ted",
+                            "last": "Cruz",
+                            "party": "GOP",
+                            "polID": "61815",
+                            "polNum": "39878",
+                            "voteCount": 3225
+                        },
+                        {
+                            "ballotOrder": 3,
+                            "candidateID": "46012",
+                            "first": "Chris",
+                            "last": "Christie",
+                            "party": "GOP",
+                            "polID": "60051",
+                            "polNum": "39877",
+                            "voteCount": 2348
+                        },
+                        {
+                            "ballotOrder": 2,
+                            "candidateID": "46022",
+                            "first": "Ben",
+                            "last": "Carson",
+                            "party": "GOP",
+                            "polID": "64509",
+                            "polNum": "39876",
+                            "voteCount": 1517
+                        },
+                        {
+                            "ballotOrder": 1,
+                            "candidateID": "46019",
+                            "first": "Jeb",
+                            "last": "Bush",
+                            "party": "GOP",
+                            "polID": "1239",
+                            "polNum": "39875",
+                            "voteCount": 1494
+                        },
+                        {
+                            "ballotOrder": 15,
+                            "candidateID": "46056",
+                            "first": "Walter",
+                            "last": "Iwachiw",
+                            "party": "GOP",
+                            "polID": "32985",
+                            "polNum": "39918",
+                            "voteCount": 1041
+                        },
+                        {
+                            "ballotOrder": 7,
+                            "candidateID": "46055",
+                            "first": "Brooks",
+                            "last": "Cullison",
+                            "party": "GOP",
+                            "polID": "64560",
+                            "polNum": "39915",
+                            "voteCount": 775
+                        },
+                        {
+                            "abbrv": "TotlW-i",
+                            "ballotOrder": 31,
+                            "candidateID": "46028",
+                            "last": "Total Write-ins",
+                            "party": "GOP",
+                            "polID": "100008",
+                            "polNum": "38999",
+                            "voteCount": 544
+                        },
+                        {
+                            "ballotOrder": 11,
+                            "candidateID": "46018",
+                            "first": "Jim",
+                            "last": "Gilmore",
+                            "party": "GOP",
+                            "polID": "45650",
+                            "polNum": "39881",
+                            "voteCount": 518
+                        },
+                        {
+                            "ballotOrder": 17,
+                            "candidateID": "46013",
+                            "first": "John",
+                            "last": "Kasich",
+                            "party": "GOP",
+                            "polID": "36679",
+                            "polNum": "39885",
+                            "voteCount": 468
+                        },
+                        {
+                            "ballotOrder": 16,
+                            "candidateID": "46073",
+                            "first": "Bobby",
+                            "last": "Jindal",
+                            "party": "GOP",
+                            "polID": "16646",
+                            "polNum": "39884",
+                            "voteCount": 427
+                        },
+                        {
+                            "ballotOrder": 14,
+                            "candidateID": "46053",
+                            "first": "Kevin",
+                            "last": "Huey",
+                            "party": "GOP",
+                            "polID": "64562",
+                            "polNum": "39917",
+                            "voteCount": 421
+                        },
+                        {
+                            "ballotOrder": 26,
+                            "candidateID": "46061",
+                            "first": "Joe",
+                            "last": "Robinson",
+                            "party": "GOP",
+                            "polID": "61504",
+                            "polNum": "39020",
+                            "voteCount": 408
+                        },
+                        {
+                            "ballotOrder": 12,
+                            "candidateID": "46024",
+                            "first": "Lindsey",
+                            "last": "Graham",
+                            "party": "GOP",
+                            "polID": "1408",
+                            "polNum": "39882",
+                            "voteCount": 393
+                        },
+                        {
+                            "ballotOrder": 28,
+                            "candidateID": "46010",
+                            "first": "Rick",
+                            "last": "Santorum",
+                            "party": "GOP",
+                            "polID": "1752",
+                            "polNum": "38995",
+                            "voteCount": 380
+                        },
+                        {
+                            "ballotOrder": 8,
+                            "candidateID": "46063",
+                            "first": "Matt",
+                            "last": "Drozd",
+                            "party": "GOP",
+                            "polID": "64561",
+                            "polNum": "39916",
+                            "voteCount": 316
+                        },
+                        {
+                            "ballotOrder": 27,
+                            "candidateID": "46023",
+                            "first": "Marco",
+                            "last": "Rubio",
+                            "party": "GOP",
+                            "polID": "53044",
+                            "polNum": "39888",
+                            "voteCount": 263
+                        },
+                        {
+                            "ballotOrder": 22,
+                            "candidateID": "46058",
+                            "first": "Peter",
+                            "last": "Messina",
+                            "party": "GOP",
+                            "polID": "64565",
+                            "polNum": "39921",
+                            "voteCount": 248
+                        },
+                        {
+                            "ballotOrder": 23,
+                            "candidateID": "46011",
+                            "first": "George",
+                            "last": "Pataki",
+                            "party": "GOP",
+                            "polID": "1502",
+                            "polNum": "39886",
+                            "voteCount": 229
+                        },
+                        {
+                            "ballotOrder": 19,
+                            "candidateID": "46066",
+                            "first": "Robert",
+                            "last": "Mann",
+                            "party": "GOP",
+                            "polID": "64563",
+                            "polNum": "39925",
+                            "voteCount": 221
+                        },
+                        {
+                            "ballotOrder": 24,
+                            "candidateID": "46016",
+                            "first": "Rand",
+                            "last": "Paul",
+                            "party": "GOP",
+                            "polID": "60208",
+                            "polNum": "39887",
+                            "voteCount": 202
+                        },
+                        {
+                            "ballotOrder": 9,
+                            "candidateID": "46067",
+                            "first": "Daniel",
+                            "last": "Dyas",
+                            "party": "GOP",
+                            "polID": "63153",
+                            "polNum": "39926",
+                            "voteCount": 177
+                        },
+                        {
+                            "ballotOrder": 5,
+                            "candidateID": "46059",
+                            "first": "Tim",
+                            "last": "Cook",
+                            "party": "GOP",
+                            "polID": "34467",
+                            "polNum": "39914",
+                            "voteCount": 142
+                        },
+                        {
+                            "ballotOrder": 25,
+                            "candidateID": "46060",
+                            "first": "Chomi",
+                            "last": "Prag",
+                            "party": "GOP",
+                            "polID": "64566",
+                            "polNum": "39922",
+                            "voteCount": 124
+                        },
+                        {
+                            "ballotOrder": 20,
+                            "candidateID": "46071",
+                            "first": "Andy",
+                            "last": "Martin",
+                            "party": "GOP",
+                            "polID": "1903",
+                            "polNum": "39007",
+                            "voteCount": 119
+                        },
+                        {
+                            "ballotOrder": 21,
+                            "candidateID": "46064",
+                            "first": "Stephen",
+                            "last": "McCarthy",
+                            "party": "GOP",
+                            "polID": "64564",
+                            "polNum": "39920",
+                            "voteCount": 72
+                        },
+                        {
+                            "ballotOrder": 29,
+                            "candidateID": "46020",
+                            "first": "Donald",
+                            "last": "Trump",
+                            "party": "GOP",
+                            "polID": "8639",
+                            "polNum": "39889",
+                            "voteCount": 64
+                        },
+                        {
+                            "ballotOrder": 30,
+                            "candidateID": "46065",
+                            "first": "Richard",
+                            "last": "Witz",
+                            "party": "GOP",
+                            "polID": "64567",
+                            "polNum": "39923",
+                            "voteCount": 35
+                        },
+                        {
+                            "ballotOrder": 18,
+                            "candidateID": "46057",
+                            "first": "Frank",
+                            "last": "Lynch",
+                            "party": "GOP",
+                            "polID": "57706",
+                            "polNum": "39919",
+                            "voteCount": 29
+                        },
+                        {
+                            "ballotOrder": 4,
+                            "candidateID": "46062",
+                            "first": "Stephen",
+                            "last": "Comley",
+                            "party": "GOP",
+                            "polID": "64559",
+                            "polNum": "39913",
+                            "voteCount": 7
+                        }
+                    ],
+                    "lastUpdated": "2016-01-29T16:35:39Z",
+                    "level": "state",
+                    "precinctsReporting": 46,
+                    "precinctsReportingPct": 15.33,
+                    "precinctsTotal": 300,
+                    "stateName": "New Hampshire",
+                    "statePostal": "NH"
+                }
+            ],
+            "test": true
+        }
+    ]
+}

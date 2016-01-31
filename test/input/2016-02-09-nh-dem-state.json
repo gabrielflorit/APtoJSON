@@ -1,0 +1,324 @@
+{
+    "electionDate": "2016-02-09",
+    "races": [
+        {
+            "national": true,
+            "officeID": "P",
+            "officeName": "President",
+            "party": "Dem",
+            "raceID": "31796",
+            "raceType": "Primary",
+            "raceTypeID": "D",
+            "reportingUnits": [
+                {
+                    "candidates": [
+                        {
+                            "ballotOrder": 18,
+                            "candidateID": "46005",
+                            "first": "Martin",
+                            "last": "O'Malley",
+                            "party": "Dem",
+                            "polID": "22603",
+                            "polNum": "39873",
+                            "voteCount": 7681
+                        },
+                        {
+                            "ballotOrder": 19,
+                            "candidateID": "46004",
+                            "first": "Bernie",
+                            "last": "Sanders",
+                            "party": "Dem",
+                            "polID": "1445",
+                            "polNum": "39872",
+                            "voteCount": 6478
+                        },
+                        {
+                            "ballotOrder": 3,
+                            "candidateID": "46006",
+                            "first": "Hillary",
+                            "last": "Clinton",
+                            "party": "Dem",
+                            "polID": "1746",
+                            "polNum": "39871",
+                            "voteCount": 4896
+                        },
+                        {
+                            "ballotOrder": 9,
+                            "candidateID": "46034",
+                            "first": "Brock",
+                            "last": "Hutton",
+                            "party": "Dem",
+                            "polID": "64550",
+                            "polNum": "39898",
+                            "voteCount": 2161
+                        },
+                        {
+                            "abbrv": "TotlW-i",
+                            "ballotOrder": 29,
+                            "candidateID": "46027",
+                            "last": "Total Write-ins",
+                            "party": "Dem",
+                            "polID": "100008",
+                            "polNum": "38999",
+                            "voteCount": 1689
+                        },
+                        {
+                            "ballotOrder": 1,
+                            "candidateID": "46031",
+                            "first": "Jon",
+                            "last": "Adams",
+                            "party": "Dem",
+                            "polID": "59729",
+                            "polNum": "39892",
+                            "voteCount": 859
+                        },
+                        {
+                            "abbrv": "Greenstn",
+                            "ballotOrder": 7,
+                            "candidateID": "46050",
+                            "first": "Mark Stewart",
+                            "last": "Greenstein",
+                            "party": "Dem",
+                            "polID": "64546",
+                            "polNum": "39909",
+                            "voteCount": 746
+                        },
+                        {
+                            "ballotOrder": 25,
+                            "candidateID": "46048",
+                            "first": "David",
+                            "last": "Thistle",
+                            "party": "Dem",
+                            "polID": "64557",
+                            "polNum": "39910",
+                            "voteCount": 724
+                        },
+                        {
+                            "ballotOrder": 28,
+                            "candidateID": "46049",
+                            "first": "John",
+                            "last": "Wolfe",
+                            "party": "Dem",
+                            "polID": "1426",
+                            "polNum": "39028",
+                            "voteCount": 717
+                        },
+                        {
+                            "ballotOrder": 5,
+                            "candidateID": "46035",
+                            "first": "Eric",
+                            "last": "Elbot",
+                            "party": "Dem",
+                            "polID": "64547",
+                            "polNum": "39895",
+                            "voteCount": 707
+                        },
+                        {
+                            "ballotOrder": 27,
+                            "candidateID": "46039",
+                            "first": "Richard",
+                            "last": "Weil",
+                            "party": "Dem",
+                            "polID": "64558",
+                            "polNum": "39912",
+                            "voteCount": 687
+                        },
+                        {
+                            "ballotOrder": 16,
+                            "candidateID": "46052",
+                            "first": "Raymond",
+                            "last": "Moroz",
+                            "party": "Dem",
+                            "polID": "64554",
+                            "polNum": "39905",
+                            "voteCount": 677
+                        },
+                        {
+                            "ballotOrder": 24,
+                            "candidateID": "46068",
+                            "first": "Vermin",
+                            "last": "Supreme",
+                            "party": "Dem",
+                            "polID": "1968",
+                            "polNum": "39035",
+                            "voteCount": 609
+                        },
+                        {
+                            "ballotOrder": 20,
+                            "candidateID": "46070",
+                            "first": "Graham",
+                            "last": "Schwass",
+                            "party": "Dem",
+                            "polID": "64555",
+                            "polNum": "39928",
+                            "voteCount": 594
+                        },
+                        {
+                            "ballotOrder": 13,
+                            "candidateID": "46046",
+                            "first": "Star",
+                            "last": "Locke",
+                            "party": "Dem",
+                            "polID": "61428",
+                            "polNum": "39902",
+                            "voteCount": 560
+                        },
+                        {
+                            "ballotOrder": 14,
+                            "candidateID": "46044",
+                            "first": "Robert",
+                            "last": "Lovitt",
+                            "party": "Dem",
+                            "polID": "64553",
+                            "polNum": "39903",
+                            "voteCount": 530
+                        },
+                        {
+                            "abbrv": "McGaughy",
+                            "ballotOrder": 15,
+                            "candidateID": "46038",
+                            "first": "Bill",
+                            "last": "McGaughey",
+                            "party": "Dem",
+                            "polID": "28400",
+                            "polNum": "39904",
+                            "voteCount": 491
+                        },
+                        {
+                            "abbrv": "Valentin",
+                            "ballotOrder": 26,
+                            "candidateID": "46051",
+                            "first": "James",
+                            "last": "Valentine",
+                            "party": "Dem",
+                            "polID": "64541",
+                            "polNum": "39911",
+                            "voteCount": 434
+                        },
+                        {
+                            "ballotOrder": 12,
+                            "candidateID": "46043",
+                            "first": "Steven",
+                            "last": "Lipscomb",
+                            "party": "Dem",
+                            "polID": "64552",
+                            "polNum": "39901",
+                            "voteCount": 405
+                        },
+                        {
+                            "abbrv": "O'Donnll",
+                            "ballotOrder": 17,
+                            "candidateID": "46069",
+                            "first": "Edward",
+                            "last": "O'Donnell",
+                            "party": "Dem",
+                            "polID": "1829",
+                            "polNum": "39034",
+                            "voteCount": 405
+                        },
+                        {
+                            "ballotOrder": 11,
+                            "candidateID": "46045",
+                            "first": "Lloyd",
+                            "last": "Kelso",
+                            "party": "Dem",
+                            "polID": "64551",
+                            "polNum": "39900",
+                            "voteCount": 342
+                        },
+                        {
+                            "ballotOrder": 21,
+                            "candidateID": "46040",
+                            "first": "Sam",
+                            "last": "Sloan",
+                            "party": "Dem",
+                            "polID": "63747",
+                            "polNum": "39906",
+                            "voteCount": 334
+                        },
+                        {
+                            "ballotOrder": 22,
+                            "candidateID": "46042",
+                            "first": "Edward",
+                            "last": "Sonnino",
+                            "party": "Dem",
+                            "polID": "64556",
+                            "polNum": "39907",
+                            "voteCount": 311
+                        },
+                        {
+                            "ballotOrder": 10,
+                            "candidateID": "46041",
+                            "first": "Keith",
+                            "last": "Judd",
+                            "party": "Dem",
+                            "polID": "58194",
+                            "polNum": "39924",
+                            "voteCount": 276
+                        },
+                        {
+                            "ballotOrder": 8,
+                            "candidateID": "46037",
+                            "first": "Henry",
+                            "last": "Hewes",
+                            "party": "Dem",
+                            "polID": "57725",
+                            "polNum": "39897",
+                            "voteCount": 256
+                        },
+                        {
+                            "ballotOrder": 2,
+                            "candidateID": "46036",
+                            "first": "Steve",
+                            "last": "Burke",
+                            "party": "Dem",
+                            "polID": "64548",
+                            "polNum": "39893",
+                            "voteCount": 234
+                        },
+                        {
+                            "abbrv": "DeLaFnt",
+                            "ballotOrder": 4,
+                            "candidateID": "46032",
+                            "first": "Rocky",
+                            "last": "De La Fuente",
+                            "party": "Dem",
+                            "polID": "64542",
+                            "polNum": "39894",
+                            "voteCount": 81
+                        },
+                        {
+                            "abbrv": "Steinbrg",
+                            "ballotOrder": 23,
+                            "candidateID": "46047",
+                            "first": "Michael",
+                            "last": "Steinberg",
+                            "party": "Dem",
+                            "polID": "11291",
+                            "polNum": "39908",
+                            "voteCount": 80
+                        },
+                        {
+                            "ballotOrder": 6,
+                            "candidateID": "46033",
+                            "first": "Bill",
+                            "last": "French",
+                            "party": "Dem",
+                            "polID": "64549",
+                            "polNum": "39896",
+                            "voteCount": 52
+                        }
+                    ],
+                    "lastUpdated": "2016-01-29T16:35:39Z",
+                    "level": "state",
+                    "precinctsReporting": 46,
+                    "precinctsReportingPct": 15.33,
+                    "precinctsTotal": 300,
+                    "stateName": "New Hampshire",
+                    "statePostal": "NH"
+                }
+            ],
+            "test": true
+        }
+    ]
+}
